@@ -3,3 +3,23 @@
 
     height: 23rem;
 }
+
+
+.effect{
+
+   transition: box-shadow 0.3s; 
+}
+
+.effect:hover {
+
+    box-shadow: 12px 25px 50px 12px rgba(18, 17, 17, 0.3) ;
+
+}
+
+.img__footer{
+
+
+    width: 300px;
+
+    height: 200px;
+}
